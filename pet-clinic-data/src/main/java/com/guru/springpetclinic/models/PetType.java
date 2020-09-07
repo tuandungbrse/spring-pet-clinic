@@ -1,6 +1,7 @@
 package com.guru.springpetclinic.models;
 
 public class PetType {
+
     private String name;
 
     public String getName() {
